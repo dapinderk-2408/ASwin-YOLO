@@ -10,7 +10,7 @@ The DeTFly dataset is a publicly available dataset and is available on https://g
 
 “ASwin-YOLO: Attention – Swin Transformers in YOLOv7 for Air-to-Air Unmanned Aerial Vehicle Detection”
 
-This repository presents a novel deep learning framework that integrates Swin Transformer-based attention mechanisms into the YOLOv7 architecture to enhance air-to-air UAV detection performance. The proposed approach improves feature representation and detection accuracy, particularly in challenging aerial scenarios and small object detection tasks.
+A novel deep learning framework that integrates Swin Transformer-based attention mechanisms into the YOLOv7 architecture to enhance air-to-air UAV detection performance. The proposed approach improves feature representation and detection accuracy, particularly in challenging aerial scenarios and small object detection tasks.
 
 # ✍️ Citation
 
